@@ -1,2 +1,2 @@
-add_library(Rational Rational.h Rational.cpp)
-set_property(TARGET Rational PROPERTY CXX_STANDARD 17)
+add_library(rational rational.h rational.cpp)
+set_property(TARGET rational PROPERTY CXX_STANDARD 17)

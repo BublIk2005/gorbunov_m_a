@@ -1,4 +1,7 @@
-#include "Rational.h"
+#include "rational/rational.h"
+#include<iostream>
+#include<sstream>
+
 int main() {
 	Rational a;
 	cout << "H";

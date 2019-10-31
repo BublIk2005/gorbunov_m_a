@@ -1,4 +1,4 @@
-#include "Rational.h"
+#include "rational/rational.h"
 
 
 	int n{ 0 };

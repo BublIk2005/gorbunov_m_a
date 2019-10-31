@@ -1,3 +1,6 @@
+#ifndef RATIONAL_RATIONAL_H_20191010
+#define RATIONAL_RATIONAL_H_20191010
+
 #include <iostream>
 #include <sstream>
 
@@ -39,3 +42,5 @@ Rational operator/(const Rational& lhs, const Rational& rhs);
 
 inline ostream& operator<<(ostream& ostrm, const Rational& rhs);
 inline istream& operator>>(istream& istrm, Rational& rhs);
+
+#endif
